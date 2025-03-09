@@ -10,5 +10,5 @@ Wiersze zostały podzielone na dwie kategorie: zwykłe oraz wyjątkowe. Wiersze 
 
 [Link do listy utworów](list.md)
 
-![Jacek Kaczmarski](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jacek_Kaczmarski.jpg "Jacek Kaczmarski")
+[![Jacek Kaczmarski](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jacek_Kaczmarski.jpg)](https://pl.wikipedia.org/wiki/Jacek_Kaczmarski "Jacek Kaczmarski")
 
