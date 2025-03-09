@@ -1,4 +1,4 @@
-[Strona Główna](index.md)
+[Strona główna](index.md)
 
 ---
 
