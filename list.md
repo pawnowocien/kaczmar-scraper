@@ -4,9 +4,9 @@
 
 # Wiersze Jacka Kaczmarskiego
 
-Lista zawierająca część z utworów lirycznych autorstwa Jacka Kaczmarskiego.
+Lista zawierająca część wierszy Jacka Kaczmarskiego.
 
-Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
+Tytuł | Data Utworzenia | Id | Dodatkowe Informacje | Link Wewnętrzny | Link Zewnętrzny
 --- | ---: | ---: | ---: | ---: | ---:
 **\*\*\* (Czemu wiatr…)** | 1973 | 0 | Tak | [Podstrona](list/0.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/czemu-wiatr/)
 **\*\*\* (Ty zła, ja zły…)** | 08.03.1992 | 1 | Tak | [Podstrona](list/1.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/ty-zla-ja-zly/)
@@ -96,7 +96,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Bywaj tu…** | 1994 | 85 | Tak | [Podstrona](list/85.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/bywaj-tu/)
 **Błogosławię zło…** | 04.02.1995 | 86 | Tak | [Podstrona](list/86.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/blogoslawie-zlo/)
 **Błędy wróżbitów** | 03.08.1990 | 87 | Tak | [Podstrona](list/87.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/bledy-wrozbitow/)
-**CV – szkic** | 0- | 88 | Tak | [Podstrona](list/88.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/cv-szkic/)
+**CV – szkic** | ? | 88 | Tak | [Podstrona](list/88.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/cv-szkic/)
 **Casanova – Fellini** | 1979 | 89 | Tak | [Podstrona](list/89.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/casanova-fellini/)
 **Cervantes** | 1979 | 90 | Tak | [Podstrona](list/90.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/cervantes/)
 **Chciałam przekroczyć…** | 1994 | 91 | Tak | [Podstrona](list/91.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/chcialam-przekroczyc/)
@@ -134,9 +134,9 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Do trupa** | 06.06.1983 | 123 | Tak | [Podstrona](list/123.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/do-trupa/)
 **Dobre rady Pana Ojca** | 06.01.1993 | 124 | Tak | [Podstrona](list/124.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/dobre-rady-pana-ojca/)
 **Dom** | 11.08.1989 | 125 | Tak | [Podstrona](list/125.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/dom/)
-**Dom – szkic** | 0- | 126 | Tak | [Podstrona](list/126.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/dom-szkic/)
+**Dom – szkic** | ? | 126 | Tak | [Podstrona](list/126.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/dom-szkic/)
 **Doświadczenie (Marzec ’68)** | 18.03.1989 | 127 | Tak | [Podstrona](list/127.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/doswiadczenie-marzec-68/)
-**Drogi i Niezwykły Jaśkowiaku Jacku!** | 0- | 128 | Tak | [Podstrona](list/128.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/drogi-i-niezwykly-jaskowiaku-jacku/)
+**Drogi i Niezwykły Jaśkowiaku Jacku!** | ? | 128 | Tak | [Podstrona](list/128.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/drogi-i-niezwykly-jaskowiaku-jacku/)
 **Drzewo genealogiczne** | 11.01.1993 | 129 | Tak | [Podstrona](list/129.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/drzewo-genealogiczne/)
 **Duch czasu** | 09.12.1982 | 130 | Tak | [Podstrona](list/130.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/duch-czasu/)
 **Dwadzieścia lat później** | 22.08.2000 | 131 | Tak | [Podstrona](list/131.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/dwadziescia-lat-pozniej/)
@@ -182,7 +182,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Hiob** | 1979 | 171 | Tak | [Podstrona](list/171.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/hiob/)
 **Hymn** | 1980 | 172 | Nie | [Podstrona](list/172.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/hymn/)
 **Hymn wieczoru kawalerskiego, czyli żale polonistycznych degeneratów** | 03.02.1979 | 173 | Tak | [Podstrona](list/173.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/hymn-wieczoru-kawalerskiego-czyli-zale-polonistycznych-degeneratow/)
-**Ikar** | 0- | 174 | Tak | [Podstrona](list/174.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/ikar/)
+**Ikar** | ? | 174 | Tak | [Podstrona](list/174.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/ikar/)
 **Ilu nas w ciszy…** | 01.10.1993 | 175 | Tak | [Podstrona](list/175.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/ilu-nas-w-ciszy/)
 **Impresje** | 1972 | 176 | Nie | [Podstrona](list/176.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/impresje/)
 **Inspiracja** | 22.03.1989 | 177 | Tak | [Podstrona](list/177.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/inspiracja/)
@@ -203,7 +203,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Kanarek** | 1974 | 192 | Tak | [Podstrona](list/192.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/kanarek/)
 **Kantyczka z lotu ptaka** | 18.12.1991 | 193 | Tak | [Podstrona](list/193.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/kantyczka-z-lotu-ptaka/)
 **Kara Barabasza** | 22.03.1989 | 194 | Tak | [Podstrona](list/194.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/kara-barabasza/)
-**Karczma** | 0- | 195 | Tak | [Podstrona](list/195.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/karczma/)
+**Karczma** | ? | 195 | Tak | [Podstrona](list/195.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/karczma/)
 **Kariera Nikodema Dyzmy** | 12.10.1990 | 196 | Tak | [Podstrona](list/196.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/kariera-nikodema-dyzmy/)
 **Karmaniola** | 1981 | 197 | Tak | [Podstrona](list/197.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/karmaniola/)
 **Karnawał w „Victorii”** | 23.02.1995 | 198 | Nie | [Podstrona](list/198.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/karnawal-w-victorii/)
@@ -317,7 +317,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Na Ambitnego** | 07.1987 | 306 | Tak | [Podstrona](list/306.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-ambitnego/)
 **Na Bezdomnego** | 06.1987 | 307 | Tak | [Podstrona](list/307.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-bezdomnego/)
 **Na Bobusia** | 09.1987 | 308 | Nie | [Podstrona](list/308.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-bobusia/)
-**Na Bronke** | 0- | 309 | Tak | [Podstrona](list/309.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-bronke/)
+**Na Bronke** | ? | 309 | Tak | [Podstrona](list/309.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-bronke/)
 **Na Dostojnego** | 06.1987 | 310 | Tak | [Podstrona](list/310.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-dostojnego/)
 **Na Dowcipnego** | 06.1987 | 311 | Nie | [Podstrona](list/311.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-dowcipnego/)
 **Na Estetę** | 06.1987 | 312 | Tak | [Podstrona](list/312.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/na-estete/)
@@ -487,7 +487,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Program** | 17.10.1990 | 476 | Nie | [Podstrona](list/476.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/program/)
 **Prosty człowiek** | 02.02.1993 | 477 | Tak | [Podstrona](list/477.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/prosty-czlowiek/)
 **Prośba** | 27.01.1982 | 478 | Nie | [Podstrona](list/478.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/prosba/)
-**Prośba o dostojność – szkic** | 0- | 479 | Tak | [Podstrona](list/479.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/prosba-o-dostojnosc-szkic/)
+**Prośba o dostojność – szkic** | ? | 479 | Tak | [Podstrona](list/479.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/prosba-o-dostojnosc-szkic/)
 **Przechadzka z Orfeuszem** | 08.08.1997 | 480 | Tak | [Podstrona](list/480.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/przechadzka-z-orfeuszem/)
 **Przeczucie (Cztery pory niepokoju)** | 19.04.1987 | 481 | Tak | [Podstrona](list/481.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/przeczucie-cztery-pory-niepokoju/)
 **Przedszkole** | 1974 | 482 | Nie | [Podstrona](list/482.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/przedszkole/)
@@ -517,7 +517,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Rano** | 25.02.1989 | 506 | Tak | [Podstrona](list/506.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rano/)
 **Raport o stanie samobójstw** | 14.02.1982 | 507 | Tak | [Podstrona](list/507.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/raport-o-stanie-samobojstw/)
 **Raport posterunkowego Smitha w sprawie pewnego włóczęgi** | 1979 | 508 | Tak | [Podstrona](list/508.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/raport-posterunkowego-smitha-w-sprawie-pewnego-wloczegi/)
-**Rapsodia wietrznej ulicy** | 0- | 509 | Tak | [Podstrona](list/509.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rapsodia-wietrznej-ulicy/)
+**Rapsodia wietrznej ulicy** | ? | 509 | Tak | [Podstrona](list/509.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rapsodia-wietrznej-ulicy/)
 **Rechot Słowackiego** | 19.07.1999 | 510 | Tak | [Podstrona](list/510.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rechot-slowackiego/)
 **Rehabilitacja komunistów** | 03.08.1987 | 511 | Nie | [Podstrona](list/511.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rehabilitacja-komunistow/)
 **Rejtan, czyli raport ambasadora** | 1980 | 512 | Nie | [Podstrona](list/512.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/rejtan-czyli-raport-ambasadora/)
@@ -598,7 +598,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Targ** | 1980 | 587 | Tak | [Podstrona](list/587.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/targ/)
 **Teodycea** | 05.02.1995 | 588 | Tak | [Podstrona](list/588.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/teodycea/)
 **Testament** | 1974 | 589 | Tak | [Podstrona](list/589.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/testament/)
-**Testament ’95** | 0- | 590 | Tak | [Podstrona](list/590.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/testament-95/)
+**Testament ’95** | ? | 590 | Tak | [Podstrona](list/590.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/testament-95/)
 **Testament’95 – wczesna wersja** | 2-5.02.95 | 591 | Tak | [Podstrona](list/591.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/testament95-wczesna-wersja/)
 **Teza Don Kichota** | 26.03.1990 | 592 | Nie | [Podstrona](list/592.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/teza-don-kichota/)
 **Teza Sancho-Pansy** | 04.05.1993 | 593 | Nie | [Podstrona](list/593.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/teza-sancho-pansy/)
@@ -607,7 +607,7 @@ Tytuł | Data utworzenia | Id | Wyjątkowy | Link wewnętrzny | Link zewnętrzny
 **Toniemy** | 12.08.1985 | 596 | Nie | [Podstrona](list/596.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/toniemy/)
 **Tradycja** | 10.05.1986 | 597 | Tak | [Podstrona](list/597.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/tradycja/)
 **Traktacik o wyobraźni** | 09.09.2001 | 598 | Tak | [Podstrona](list/598.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/traktacik-o-wyobrazni/)
-**Traktat** | 0- | 599 | Tak | [Podstrona](list/599.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/traktat/)
+**Traktat** | ? | 599 | Tak | [Podstrona](list/599.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/traktat/)
 **Traktat o przestrzeni** | 03.01.1988 | 600 | Tak | [Podstrona](list/600.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/traktat-o-przestrzeni/)
 **Tren spadkobierców** | 21.08.1998 | 601 | Tak | [Podstrona](list/601.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/tren-spadkobiercow/)
 **Trolle** | 13.05.1983 | 602 | Tak | [Podstrona](list/602.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/trolle/)
