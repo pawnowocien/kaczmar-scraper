@@ -1,3 +1,2 @@
-
-*.py
-*.pyc
+venv
+generator/openrouter_api_key.py
