@@ -13,3 +13,6 @@ Written in polish.
 **Not all works from the source are included:**
 - Some pieces lack Kaczmarski's signature, e.g. [this one](https://www.kaczmarski.art.pl/tworczosc/wiersze/dokumentacja-pewnego-faktu-ktory-zdarzyl-sie-w-naszym-miescie-watpliwe/)
 - Some aren't poems at all, e.g. [this one](https://www.kaczmarski.art.pl/tworczosc/wiersze/1788-2/1788-albo-dramat-na-koncu-swiata/)
+
+**Remarks:**
+- Before using the program, add your OpenRouter `API_KEY` in `.env`

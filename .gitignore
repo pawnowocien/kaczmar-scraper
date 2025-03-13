@@ -1,2 +1,4 @@
 venv
-generator/openrouter_api_key.py
+.env
+*.pyc
+__pycache__

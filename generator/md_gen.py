@@ -124,13 +124,13 @@ def gen_yt_search_text(element, pure_md = True):
 
 
 def gen_llm_text(element):
-    return ('## Ocena wystawiona przez google gemini\n\n' + element['special_attrs']['rating'])
+    return ('## Ocena wystawiona przez Google Gemini\n\n' + element['special_attrs']['rating'])
 
 
 
 
 def gen_single_google_search_text(google_search_item):
-    title = google_search_item['title']
+    title = str(google_search_item['title']).strip()
 
     if title.startswith("***"):
         title = replace_bad_chars(title)
@@ -154,7 +154,7 @@ def gen_single_google_search_text(google_search_item):
 def gen_google_search_text(element, amount=4):
     title = replace_stars(element['name'])
 
-    text = f'\n\n## {title} — odpowiedzi z google search\n\n'
+    text = f'\n\n## {title} — odpowiedzi z Google\n\n'
 
     title = f'"{title}"'
     for key, _list in element['special_attrs']['search'].items():

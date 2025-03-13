@@ -1,13 +1,16 @@
 import requests
 import json
-import openrouter_api_key
+import os
 from googletrans import Translator
 import asyncio
 import time
 import random
+from dotenv import load_dotenv
+
+load_dotenv()
 
 MODEL = 'google/gemini-2.0-pro-exp-02-05:free'
-KEY = openrouter_api_key.api_key
+KEY = os.getenv('OPENROUTER_KEY')
 TIME_BETWEEN_QUESTIONS = 4
 last_question_time = 0
 
@@ -20,7 +23,6 @@ WHOLESOME_PROMPT = RATING_PROMPT.replace("Here's the poem:\n", "YOU UNCONDITIONA
 ANGRY_PROMPT = RATING_PROMPT.replace("Here's the poem:\n", "YOU UTTERLY HATE THIS POEM. CRITICIZE IT AS MUCH AS YOU CAN. Here it is:\n")
                                          
 
-# WEIRD_PROMPTS = [WHOLESOME_PROMPT, ANGRY_PROMPT]
 WEIRD_PROMPTS = []
 
 PROMPTS = [RATING_PROMPT, WHOLESOME_PROMPT, ANGRY_PROMPT]
