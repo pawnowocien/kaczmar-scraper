@@ -192,7 +192,7 @@ def gen_google_search_text(element, amount=4):
             if not is_google_search_bugged(google_search_thingy):
                 good_searches.append(google_search_thingy)
         if len(good_searches) < amount:
-            raise Exception(f"Too few working google searches ({element['id']})")
+            print(f"WARNING: Too few google searches for {element['id']} ({len(good_searches)})")
         for google_search_element in good_searches[:amount]:
             text += gen_single_google_search_text(google_search_element)
         text += '\n'
