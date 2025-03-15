@@ -1,14 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-import random
-import md_gen
-import searcher
-import llm_chat
+from . import searcher
+from . import llm_chat
 
 URL = 'https://www.kaczmarski.art.pl/tworczosc/wiersze/'
 SEARCH_TERMS_PL = ['wiadomości', 'co to']
 
-
+# Returns a list of all poems on the site
 def get_poems():
     response = requests.get(URL)
     main_site = BeautifulSoup(response.text, 'html.parser')
@@ -16,25 +14,14 @@ def get_poems():
     poems = main_site.find_all('ul', {'class': 'page-list'})[0]
     return poems.find_all('li')
 
-
+# Checks if there is a signature of Jacek Kaczmarski on the site
 def check_author(site):
     sign = site.find('div', {'class': 'fusion-text-2'})
     if sign is None:
         return False
     return 'kaczmarski' in sign.text.lower()
 
-
-def fix_date_format(date):
-    if date == '-':
-        return '?'
-    date = date.split('.')
-    ans = ""
-    for w in date:
-        if len(w) == 1:
-            ans += '0'
-        ans += w + '.'
-    return ans[:-1]
-
+# Returns the date of the poem
 def get_date(site):
     sign = site.find('div', {'class': 'fusion-text-2'})
     if sign is None:
@@ -68,10 +55,13 @@ def get_date(site):
         print('Words in date:  ', date)
     return date
 
+# Returns a poem with added id
 def set_id(poem, _id):
     poem['id'] = str(_id)
     return poem
 
+# Generates a poem with normal attributes
+# (name, link, year, text)
 def gen_normal_attrs(poem_html):
     _name = poem_html.find('a').text
     _href = poem_html.find('a').get('href')
@@ -84,18 +74,21 @@ def gen_normal_attrs(poem_html):
     _text = _site.find('div', {'class': 'fusion-text-1'}).text
     _date = get_date(_site)
 
-    return {
-        'name': _name,
-        'link': _href,
-        'year': _date,
-        'text': _text,
-        'special_attrs': {}
-    }
+    return {'name': _name,
+            'link': _href,
+            'year': _date,
+            'text': _text,
+            'special_attrs': {}
+            }
 
-def gen_special_attrs(poem):
+# Adds special attributes to the poem
+# (the ones that require additional processing)
+def add_special_attrs(poem):
 
     poem['special_attrs']['search'] = searcher.get_searches(poem['name'], SEARCH_TERMS_PL, 3)
     poem['special_attrs']['yt_search'] = searcher.yt_search(poem['name'] + ' Jacek Kaczmarski')
     poem['special_attrs']['rating'] = llm_chat.ask_for_rating(poem['text'])
+
+    poem['special'] = True
 
     return poem

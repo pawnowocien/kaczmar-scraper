@@ -15,4 +15,4 @@ Written in polish.
 - Some aren't poems at all, e.g. [this one](https://www.kaczmarski.art.pl/tworczosc/wiersze/1788-2/1788-albo-dramat-na-koncu-swiata/)
 
 **Remarks:**
-- Before using the program, add your OpenRouter `API_KEY` in `.env`
+- Before using the program, set your OpenRouter `API_KEY` in `.env`

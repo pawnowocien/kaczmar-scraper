@@ -11,19 +11,17 @@ TIME_BETWEEN_SEARCHES = (2, 4)
 TIME_BETWEEN_GOOGLE_SEARCHES = (1, 2)
 MAX_RETRIES = 1
 
+# Waits for a random time in the (tuple) range
 def wait_for(_range):
     time.sleep(random.random() * (_range[1] - _range[0]) + _range[0])
 
+# Searches for a term on google
 def search(name, term, num):
     search_term = name + ' ' + term
     res = []
     retries = 0
     while True:
         try:
-            # for found_site in google_search(search_term, num_results=num * 2, unique=True, advanced=True):
-            #     res.append(found_site.url)
-            # for url in google_search(search_term, stop=num):
-            #     res.append(url)
             google_search_thingies = google_search(search_term, num_results=num * 2, unique=True, advanced=True)
 
             res = []
@@ -42,7 +40,8 @@ def search(name, term, num):
             print(f'Google search failed ({retries}), trying again in: {2 ** retries}s')
             retries += 1
             time.sleep(2 ** retries)
-        
+
+# Searches for multiple terms on google
 def get_searches(name, terms, num):
     ans = {}
     for term in terms:
@@ -50,14 +49,14 @@ def get_searches(name, terms, num):
         wait_for(TIME_BETWEEN_GOOGLE_SEARCHES)
     return ans
 
-
-
+# Gets the title of a youtube video by its url
 def get_yt_title(url):
     time.sleep(random.random() * 1.2)
     response = requests.get(url)
     data = BeautifulSoup(response.text, 'html.parser')
     return data.find('title').text
 
+# Searches for 3 youtube videos with the specified term
 def yt_search(term):
     global last_yt_search_time
 
