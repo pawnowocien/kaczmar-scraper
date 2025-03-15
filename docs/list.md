@@ -6,6 +6,8 @@
 
 Lista zawierająca część wierszy Jacka Kaczmarskiego.
 
+Postęp: 634/711 (89.17 %)
+
 Tytuł | Data Utworzenia | Id | Dodatkowe Informacje | Link Wewnętrzny | Link Zewnętrzny
 --- | ---: | ---: | ---: | ---: | ---:
 **\*\*\* (Czemu wiatr…)** | 1973 | 0 | Tak | [Podstrona](list/0.md) | [kaczmarski.art.pl](https://www.kaczmarski.art.pl/tworczosc/wiersze/czemu-wiatr/)

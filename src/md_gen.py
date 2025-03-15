@@ -69,7 +69,7 @@ def gen_index_md(filename, title, text, web_path, dir=None):
                     f'{text}\n\n')
     return path
 
-
+# Adds leading zeros to date parts
 def fix_date_format(date):
     if date == '-':
         return '?'
@@ -80,6 +80,15 @@ def fix_date_format(date):
             ans += '0'
         ans += w + '.'
     return ans[:-1]
+
+# Checks how many special poems are in the list
+def check_progress(poems):
+    total = len(poems)
+    done = 0
+    for poem in poems:
+        if poem['special']:
+            done += 1
+    return done, total
 
 # Generates list.md
 def gen_list_md(filename, title, text, _list, web_path, dir=None):
@@ -99,9 +108,14 @@ def gen_list_md(filename, title, text, _list, web_path, dir=None):
 
     with open(path, 'w', encoding='UTF-8') as file:
         web_path = get_sites_path(web_path)
+        done, total = check_progress(_list)
+        progress = f'Postęp: {done}/{total} ({100 * (done/total):.2f} %)'
+        print(progress)
+
         file.write(f'{web_path}'
                     f'# {title}\n\n'
                     f'{text}\n\n'
+                    f'{progress}\n\n'
                     'Tytuł | Data Utworzenia | Id | Dodatkowe Informacje | Link Wewnętrzny | Link Zewnętrzny\n'
                     '--- | ---: | ---: | ---: | ---: | ---:\n')
         for item in _list:
